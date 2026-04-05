@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on a online clothes shop and others works similar.<br>Always in the search for something new and nice to do.<br>Soft Skills like leadership and work group.<br>Studying in the University of West (Universidade do Oeste Paulista) division of FIPP.
 
 
