@@ -1,5 +1,10 @@
 # About Me:
-I’m currently working on a online clothes shop and others works similar.<br>Always in the search for something new and nice to do.<br>Soft Skills like leadership and work group.<br>Studying in the University of West (Universidade do Oeste Paulista) division of FIPP.
+- Unoeste-FIPP -> Presidente Prudente - SP - Brasil (Brazil);
+- Working in the ALMAR company (ALMAR - Alavanca Das Marcas);
+- Very curious about technologies and studies em general;
+- Developing a manegement system for a rehabilitation clinic for substance abusers;
+- Devopoping my undergraduate thesis, appling the machine learning and genetic algorithms to identify arquitetural erosions and sugest oportunities of refactoring;
+- I've already worked as a teaching assistant on the UNOESTE - University of West (Universidade do Oeste Paulista);
 
 
 ## 🌐 Socials:
